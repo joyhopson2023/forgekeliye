@@ -42,7 +42,7 @@
     <script type="text/javascript">
         var phone = getVariableFromURl('phone');
         var phone_number = phone + ' (Toll Free)';
-        var phone_number2 = phone + ' +1-888-261-3992';
+        var phone_number2 = phone + ' +1-888-971-5620';
     </script>
 
     <script type="text/javascript">
