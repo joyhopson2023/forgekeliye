@@ -39,8 +39,8 @@
         }
 
         var phone = getVariableFromURl('phone');
-        var phone_number = phone + ' +1-888-971-5620 (Toll Free)';
-        var phone_number2 = phone + ' +1-888-971-5620 (Toll Free)';
+        var phone_number = phone + ' +1-833-931-1547 (Toll Free)';
+        var phone_number2 = phone + ' +1-833-931-1547 (Toll Free)';
 
     </script>
     <script type="text/javascript">

