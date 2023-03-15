@@ -42,7 +42,7 @@
     <script type="text/javascript">
         var phone = getVariableFromURl('phone');
         var phone_number = phone + ' (USA TollFree)';
-        var phone_number2 = phone + ' +1-833-931-1547';
+        var phone_number2 = phone + ' +1-888-413-4070';
     </script>
 
     <script type="text/javascript">
